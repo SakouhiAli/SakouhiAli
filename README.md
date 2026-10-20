@@ -49,5 +49,5 @@ Passionate about data analysis, problem-solving, and using data to support busin
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [[Your LinkedIn Profile]]([https://linkedin.com...](https://www.linkedin.com/in/sakouhi-ali/))
+* **LinkedIn:** [https://www.linkedin.com/in/sakouhi-ali/]
 * **Email:** [sakoohi.ali@gmail.com]
